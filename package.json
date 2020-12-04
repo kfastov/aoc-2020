@@ -1,0 +1,21 @@
+{
+  "name": "aoc-2020",
+  "version": "1.0.0",
+  "description": "My own solutions for 2020 Advent of Code puazzles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aoc"
+  ],
+  "author": "K. Fastov",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.8.0",
+    "tough-cookie": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/tough-cookie": "^4.0.0"
+  }
+}
